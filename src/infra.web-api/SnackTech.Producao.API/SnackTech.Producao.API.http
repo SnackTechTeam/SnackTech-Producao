@@ -1,0 +1,6 @@
+@SnackTech.Producao.API_HostAddress = http://localhost:5286
+
+GET {{SnackTech.Producao.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
